@@ -1,3 +1,8 @@
+/**
+ * Se usa para poder iterar sobre objetos inumerables ->>> Objetos
+ */
+
+
 let user = {
     id:1,
     name: 'Chanchito',
